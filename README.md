@@ -148,32 +148,5 @@ del package-lock.json
 npm install
 ```
 
-## 🌐 Deployment
-
-### Build untuk Production
-```bash
-npm run build
-```
-
-Hasil build akan tersimpan di folder `dist/`
-
-### Deploy ke Vercel/Netlify
-1. Connect repository ke platform
-2. Set environment variables
-3. Deploy otomatis dari main branch
-
-## 📞 Support
-
-Jika mengalami masalah:
-1. Check troubleshooting section
-2. Pastikan semua dependencies terinstall
-3. Verifikasi environment variables
-4. Check console browser untuk error details
-
-## 📄 License
-
-MIT License - Lihat file LICENSE untuk detail lengkap.
-
----
 
 **Happy Coding! 🚀**
